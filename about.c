@@ -7,4 +7,5 @@ a=a+b;
 b=a-b;
 a=a-b;
 printf("swap of %d and %d",a,b);
+printf("Thank you and meeet you again");
 }
